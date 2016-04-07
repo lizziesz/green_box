@@ -4,3 +4,21 @@
   background-color: green;
   border: solid 1px green;
 }
+
+.box.two {
+  width: 200px;
+  height: 200px;
+  background: lightgreen;
+  border-radius: 3px;
+  border: solid 3px lightgreen;
+}
+
+.box.three {
+  width: 50%;
+  height: 50%;
+  background: darkgreen;
+  border-radius: 3px;
+  border: solid 3px darkgreen;
+  margin: auto;
+  margin-top: 50px;
+}
